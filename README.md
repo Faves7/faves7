@@ -1,13 +1,13 @@
-# Hi there! 👋
+# Hello world! 👋
 
-## My name is Facundo and I'm from Argentina.
+## My name is Facundo from Argentina.
 
 I worked for 2 years as a backend developer using Java, Springboot, GitHub, relational databases and Postman at Mercado Libre.
 
 
 I am currently finishing my university studies in computer networks.
 
-![AWS Certified Cloud Practitioner Badge](https://github.com/faves7/faves7/main/assets/AWS-Certified-Cloud-Practitioner_badge_150x150.png)
+![AWS Certified Cloud Practitioner Badge](assets/AWS-Certified-Cloud-Practitioner_badge_150x150.png)
 
 ---
 
