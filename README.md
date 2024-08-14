@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Faves7/faves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Facundo and I'm from Argentina.
 
-Here are some ideas to get you started:
+I worked for 2 years as a backend developer using Java, Springboot, GitHub, relational databases and Postman at Mercado Libre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am currently finishing my university studies in computer networks.
+
+![AWS Certified Cloud Practitioner Badge](https://github.com/faves7/faves7/main/assets/AWS-Certified-Cloud-Practitioner_badge_150x150.png)
+
+---
+
+## 📫 CONTACT
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/facundo-chaves-del-pino/)
+- Website: [personal website](https://www.facundochaves.com/)
+- Email: facuchaves957@gmail.com
+
