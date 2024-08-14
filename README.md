@@ -12,7 +12,10 @@ I am currently finishing my university studies in computer networks.
 ---
 
 ## 📫 CONTACT
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/facundo-chaves-del-pino/)
-- Website: [personal website](https://www.facundochaves.com/)
-- Email: facuchaves957@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/facundo-chaves-del-pino/)
+- [Personal website](https://www.facundochaves.com/)
+- facuchaves957@gmail.com
 
+---
+
+![Visitor Count](https://profile-counter.glitch.me/faves7/count.svg)
